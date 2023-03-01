@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.each-dest-container {
+  margin: 20px;
+}
+.img-container {
+  border-radius: 20px;
+}
+img {
+  width: 200px;
+}
+p {
+  font-family: 'roboto';
+}
